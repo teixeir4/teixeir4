@@ -2,7 +2,7 @@
 
 <ul>
   <li>Engaged student at Trybe :computer:</li>
-  <li>Currently learning HTML & CSS :battery:</li>
+  <li>Currently learning Front-End :battery:</li>
 </ul>
 <div align="center">
   <a href="https://github.com/teixeir4">
